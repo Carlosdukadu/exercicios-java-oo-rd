@@ -4,6 +4,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class Fibonacci {
+    public int tamanho;
 
     /**
      * Retorna um array contendo uma sequencia de números inteiros de Fibonacci.
@@ -20,8 +21,11 @@ public class Fibonacci {
      * @return int[]
      */
     public int[] getSequenciaFibonacciDe(int tamanho) {
-        // TODO: implemente o código deste método
+        // this.tamanho
         return null;
     }
 
 }
+
+
+
